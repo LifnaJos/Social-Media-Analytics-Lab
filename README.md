@@ -1,6 +1,6 @@
 # Social-Media-Analytics-Lab
 
-## Acknowledgemts : [Dr. Sujata Khedkar](https://www.linkedin.com/in/sujata-khedkar-009971294/) (Professor, Department of Computer Engineering, VESIT) for creating the YouTube videos related to each topic in the Social Media Analytics Lab. 
+### Acknowledgemts : [Dr. Sujata Khedkar](https://www.linkedin.com/in/sujata-khedkar-009971294/) (Professor, Department of Computer Engineering, VESIT) for creating the YouTube videos related to each topic in the Social Media Analytics Lab. 
 - [Complete playlist for Social Media Analytics](http://bit.ly/3JR1wlK)
 
 ## Experiment - 1 : Study on SMA Tools
