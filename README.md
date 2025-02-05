@@ -6,7 +6,7 @@
 
 ### Useful Youtube Links for performing Scarping the data
 1. [Web Scraping](https://www.youtube.com/watch?v=43Yqmv8Ez60)
-3. [Web DataScraping Using PowerBI](https://youtu.be/guPs9njdNUE)
+3. [Web Data Scraping Using PowerBI](https://youtu.be/guPs9njdNUE)
 4. [Scrape Twitter Data Link](https://youtu.be/7Kl9SGaD9Lg)
 5. [Scrape Youtube Comment](https://youtu.be/ml8sEJVnr4k)
 
