@@ -21,6 +21,14 @@
 1. Select the social media platforms of your choice (Twitter, Facebook, LinkedIn, YouTube, Web blogs etc)
 2. Connect to and capture social media data for business( scraping, crawling, parsing).
 
+## Experiment - 5 : Develop Content based social media analytics model for business.
+- Content Based Analysis includes Topic , Issue ,Trend, sentiment/opinion analysis, audio, video, image analytics)
+1. [Topic Modeling](https://www.youtube.com/watch?v=NiMdZRAB9EM)
+2. [Sentiment Analysis](https://www.youtube.com/watch?v=t0RUCuZB7h8)
+3. [Google Reviews Analytics](https://www.youtube.com/watch?v=NiMdZRAB9EM)
+
+
+
 **Useful Links**
 1. [Web Scraping](https://www.youtube.com/watch?v=43Yqmv8Ez60)
 3. [Web Data Scraping Using PowerBI](https://youtu.be/guPs9njdNUE)
